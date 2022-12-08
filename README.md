@@ -5,7 +5,7 @@
 - Computational Chemistry as an option.  
 - 💞️  My interests include Chemistry (Physical and Organic), drug discovery, pharmacology, and foreign languages (I possess a DALF C1 certification through the Ministère 
 - Française de l'Éducation Nationale et de la Jeunesse).
-- 📫 
+- 
 
 <!---
 LeCaennaisVolant/LeCaennaisVolant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
